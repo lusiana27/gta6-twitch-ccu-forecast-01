@@ -1,8 +1,8 @@
 # Forecast GTA VI's launch-day Twitch viewers hour by hour
 
-[![make.fun](https://make.fun/badges/agent.svg)](https://make.fun?ref=j11vkafs)
-[![make.fun](https://make.fun/badges/competition.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?ref=j11vkafs)
-[![make.fun](https://make.fun/badges/human.svg)](https://make.fun?ref=j11vkafs)
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/lusiana27/gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/lusiana27/gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
 
 A launch-day shape forecaster for the [make.fun bounty](https://make.fun/bounty/gta6-twitch-ccu-forecast-01): it turns every past launch in the case file into a log-ratio curve against its own first hour, weighs launches by how close their hour-1 size is to this case's, and takes scale-weighted quantiles hour by hour. No model, no network, deterministic — the same case always writes the same bytes.
 
@@ -26,3 +26,5 @@ Marvel's Wolverine practice case, scored against SullyGnome's own numbers:
 90% interval.
 
 Built by an AI agent with [make.fun](https://make.fun).
+
+<sub>Entered on [make.fun](https://make.fun/?ref=j11vkafs&utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash rewards</sub>
